@@ -1,0 +1,326 @@
+
+/* header styles */
+.logo-span--text{
+    
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.contact-phone-mail a{
+    font-family: 'Roboto';
+    
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.button--header{
+    font-family: 'Roboto';
+    font-size: 16px;
+    text-align: center;
+}
+
+/* nav */
+.navigation--item a{
+    font-family: 'Roboto';
+    font-size: 16px;
+
+}
+
+
+
+/* header content */
+
+.header-content h1{
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 130%;
+}
+.header-content p{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.choise-tour {
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+/* main content */
+.tours-content p{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.directions-heading h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.directions--item p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+}
+
+/* poptlar-sentence */
+.sentece--item h4{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.sentece--item p{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 130%;
+}
+.sentece--item span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 130%;
+}
+
+/* map baikal */
+
+.heading-map h2{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    text-align: center;
+
+
+}
+
+/* about baikal */
+
+.about-baikal--text h2{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.about-baikal--text p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.about-baikal--text a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #76767A;
+
+}
+
+/* photo gallery */
+
+.header-gallery h2{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+}
+.gallery-arrow a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+/* info baikal */
+
+.info-baikal--heading h2{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 130%;
+
+    text-transform: uppercase;
+    text-align: center ;
+}
+.info-baikal--text p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.info-baikal--tegs p:first-of-type{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 130%;
+
+    color: #64BD22;
+}
+
+.info-baikal--tegs p:last-of-type{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+
+/* input baikal */
+.heading-form-baikal h2{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    
+    
+    text-align: center;
+}
+.input--comments {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+}
+
+.input-send-submit {
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+
+    text-align: center;
+}
+.baikal-form-check__box-content{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+
+    text-decoration: underline;
+    color: #76767A;
+}
+
+/* footer */
+
+.footer-navigation section h3{
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #fff;
+}
+
+.footer-navigation section ul li a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+
+    color: #fff;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+/* footer copyrigth */
+
+.footer-copyrigth section strong{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+
+    color:#fff;
+}
+.footer-copyrigth section p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+
+    color: #fff;
+    opacity: 0.8;
+}
+
+.copyrigth-political a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+
+    color: #fff;
+}
+
+.copyrigth-political span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 130%;
+
+    
+    color: #fff;
+    opacity: 0.5;
+}
+
+/* mobail */
+
+.footer-menu-bar h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.footer-contact-phone-mail a{
+    font-family: 'Roboto';
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+
+
+}
+
+.photo-gallery--mobail a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
