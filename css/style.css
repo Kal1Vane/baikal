@@ -616,7 +616,7 @@ text-decoration: none;
 
 .checkbox-form-baikal:checked + .baikal-form-check__box {
     background-color: #4A90E2;
-    background-image: url(/css/img/check.svg);
+    background-image: url(../css/img/check.svg);
 }
 
 /* Focused */
